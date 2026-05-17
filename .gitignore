@@ -1,0 +1,16 @@
+# Sensitive configurations (CRITICAL)
+.env
+
+# Local downloads directory
+downloads/
+*.pdf
+
+# Python environment and caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+Thumbs.db
