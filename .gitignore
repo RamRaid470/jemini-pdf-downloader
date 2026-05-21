@@ -1,5 +1,6 @@
 # Sensitive configurations (CRITICAL)
 .env
+.log
 
 # Local downloads directory
 downloads/
